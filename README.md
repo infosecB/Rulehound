@@ -1,12 +1,10 @@
-# Rulehound (Coming Soon)
-An index of publicly available and open-source threat detection rulesets.
+# Rulehound
+![Rulehound logo](assets/rulehound_logo.png)
+[https://rulehound.com](https://rulehound.com)
 
-## Preview
-![Rulehound webapp preview](assets/rulehound_preview.png)
+## Release Info
 
-## Upcoming Release Info
-
-Rulehound is in the final stages of development and will include the following rulesets at initial release:
+Rulehound includes the following rulesets at initial release:
 
 - Splunk Security Content Rules
 - Elastic Detection Rules
